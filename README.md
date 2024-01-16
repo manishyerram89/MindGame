@@ -1,2 +1,2 @@
 # MindGame
-Tests your memory level
+Game to test your memory level
